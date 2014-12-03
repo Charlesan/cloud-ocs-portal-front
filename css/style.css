@@ -1,0 +1,29 @@
+.container {
+	width: 1000px !important;
+}
+
+.header {
+	padding: 15px 0px;
+}
+
+.content-warpper {
+	padding-top: 35px;
+	padding-bottom: 50px;
+	border-bottom: 2px solid #e9e9e9;
+}
+
+div.col-xs-9.content {
+	border-left: 1px solid #e9e9e9;
+	min-height: 300px;
+}
+
+#sidebar {
+	font-weight: bold;
+}
+
+.table th, .table td, .table caption {
+	text-align: center;
+}
+.footer {
+	padding: 15px 0px;
+}
